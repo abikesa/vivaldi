@@ -1,18 +1,49 @@
- # If music is the food of love
+# Preface
 
-                 1. Pessimism
-                             \
-    2. Beyond Good & Evil -> 4. Uncommunicable -> 5. Science -> 6. Morality
-                             /
-                             3. Robustness
+                           1. Meaning
+                                     \
+                      2. Patterns -> 4. Values -> 5. Identity -> 6. Achievements
+                                     /
+                                     3. Consequences 
+            
+      
 
-### Dionysus 1, 2, [3](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)
-### Sing O Muse [4](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach)
-### Apollo [5](https://en.wikipedia.org/wiki/George_Frideric_Handel), 6
+## [Linear](https://en.wikipedia.org/wiki/Log-linear_model) 1, 2, 3
+- Gaussian; `odds`, `bet`, `payout`: Dionysus
+
+## Categorical 4
+- Ranking; `character`: Hinduism
+
+## Binary 5, 6
+- Truth; `friendship`, [ethics](https://www.youtube.com/watch?v=GLpbh5d3Hhg): Judeo-Christian
+
+```{figure} ./self-criticism.png
+---
+width: 1000px
+name: philosophy
+alt: an attempt at self-criticism
+---
+*Its all [here](https://en.wikisource.org/wiki/An_Attempt_at_Self-Criticism)*
+```
+
+- [Dude](https://www.youtube.com/shorts/s2gLB2ZqPWc)
+- [Theory](https://schlemielintheory.com)
 
 
-                     1. Modes
-                             \
-                 2. Scales -> 4. Chords -> 5. Rythm -> 6. Temperament
-                             /
-                             3. Melody
+                             1. About Me
+                                        \
+                           2. Skills -> 4. Recent Posts -> 5. Experiences -> 6. Achievements
+                                        /
+                                        3. Projects
+
+
+
+
+
+#### Table of Contents
+
+```{tableofcontents}
+```
+
+
+
